@@ -1,0 +1,463 @@
+[    {
+  "width": 1280,
+  "height": 1696,
+  "code": "desktop",
+  "device": "Desktop"
+ },
+{
+  "device": "Test",
+  "code": "test",
+  "height": 560,
+  "width": 320
+},
+{
+  "device": "Amazon Kindle Fire (First Generation)",
+  "code": "amazon_kindle_fire_first_generation",
+  "height": 600,
+  "width": 1024
+},
+{
+  "device": "iPad Mini 1",
+  "code": "apple_ipad_mini_1",
+  "height": 768,
+  "width": 1024
+},
+{
+  "device": "iPad Mini 2",
+  "code": "apple_ipad_mini_2",
+  "height": 768,
+  "width": 1024
+},
+{
+  "device": "Apple iPad 3",
+  "code": "apple_ipad_mini_3",
+  "height": 768,
+  "width": 1024
+},
+{
+  "device": "Apple iPad 4",
+  "code": "apple_ipad_mini_4",
+  "height": 768,
+  "width": 1024
+},
+{
+  "device": "Apple iPhone 3GS",
+  "code": "apple_iphone_3gs",
+  "height": 480,
+  "width": 320
+},
+{
+  "device": "Apple iPhone 4",
+  "code": "apple_iphone_4",
+  "height": 480,
+  "width": 320
+},
+{
+  "device": "Apple iPhone 5",
+  "code": "apple_iphone_5",
+  "height": 568,
+  "width": 320
+},
+{
+  "device": "Apple iPhone 6",
+  "code": "apple_iphone_6",
+  "height": 667,
+  "width": 375
+},
+{
+  "device": "Apple iPhone 6 Plus",
+  "code": "apple_iphone_6_plus",
+  "height": 736,
+  "width": 414
+},
+{
+  "device": "BlackBerry PlayBook",
+  "code": "blackberry_playBook",
+  "height": 600,
+  "width": 1024
+},
+{
+  "device": "BlackBerry Z10",
+  "code": "blackberry_z10",
+  "height": 640,
+  "width": 384
+},
+{
+  "device": "BlackBerry Z30",
+  "code": "blackberry_z30",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Google Nexus 10",
+  "code": "google_nexus_10",
+  "height": 800,
+  "width": 1280
+},
+{
+  "device": "Google Nexus 4",
+  "code": "google_nexus_4",
+  "height": 640,
+  "width": 384
+},
+{
+  "device": "Google Nexus 5",
+  "code": "google_nexus_5",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Google Nexus 7",
+  "code": "google_nexus_7",
+  "height": 604,
+  "width": 966
+},
+{
+  "device": "Google Nexus 2",
+  "code": "google_nexus_7_2",
+  "height": 600,
+  "width": 960
+},
+{
+  "device": "Google Nexus S",
+  "code": "google_nexus_s",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "HTC Evo",
+  "code": "htc_evo",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "HTC Touch HD",
+  "code": "htc_myTouch_slide_4G",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "HTC Desire HD",
+  "code": "htc_desire_hd",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "HTC Desire",
+  "code": "htc_desire",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "HTC One X",
+  "code": "htc_one_x",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "HTC EVO LTE",
+  "code": "htc_evo_lte",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "HTC Sensation",
+  "code": "htc_sensation",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "HTC Evo 3D",
+  "code": "htc_evo_3d",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "LG Optimus 2X",
+  "code": "lg_optimus_2x",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "LG Optimus 3D",
+  "code": "lg_optimus_3d",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "LG Optimus Black",
+  "code": "lg_optimus_black",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "LG Optimus G",
+  "code": "lg_optimus_g",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "LG Optimus LTE",
+  "code": "lg_optimus_lte",
+  "height": 753,
+  "width": 424
+},
+{
+  "device": "LG Optimus 4X HD",
+  "code": "lg_optimus_4x_hd",
+  "height": 753,
+  "width": 424
+},
+{
+  "device": "Motorola Droid",
+  "code": "motorola_droid",
+  "height": 569,
+  "width": 320
+},
+{
+  "device": "Motorola Droid X",
+  "code": "motorola_droid_x",
+  "height": 569,
+  "width": 320
+},
+{
+  "device": "Motorola Milestone",
+  "code": "motorola_milestone",
+  "height": 569,
+  "width": 320
+},
+{
+  "device": "Motorola Droid 3",
+  "code": "motorola_droid_3",
+  "height": 960,
+  "width": 540
+},
+{
+  "device": "Motorola Droid 4",
+  "code": "motorola_droid_4",
+  "height": 960,
+  "width": 540
+},
+{
+  "device": "Motorola Droid Razr",
+  "code": "motorola_droid_razr",
+  "height": 960,
+  "width": 540
+},
+{
+  "device": "Motorola Atrix 4G",
+  "code": "motorola_atrix_4g",
+  "height": 960,
+  "width": 540
+},
+{
+  "device": "Motorola Atrix 2",
+  "code": "motorola_atrix_2",
+  "height": 960,
+  "width": 540
+},
+{
+  "device": "Motorola Droid Razr HD",
+  "code": "motorola_droid_razr_hd",
+  "height": 1280,
+  "width": 720
+},
+{
+  "device": "Motorola Xoom",
+  "code": "motorola_xoom",
+  "height": 800,
+  "width": 1280
+},
+{
+  "device": "Motorola Xyboard",
+  "code": "motorola_xyboard",
+  "height": 800,
+  "width": 1280
+},
+{
+  "device": "Nokia C5",
+  "code": "nokia_c5",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Nokia C6",
+  "code": "nokia_c6",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Nokia C7",
+  "code": "nokia_c7",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Nokia N97",
+  "code": "nokia_n97",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Nokia N8",
+  "code": "nokia_n8",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Nokia X7",
+  "code": "nokia_x7",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Nokia Lumia 7X0",
+  "code": "nokia_lumia_7x0",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Nokia Lumia 8XX",
+  "code": "nokia_lumia_8xx",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Nokia Lumia 900",
+  "code": "nokia_lumia_900",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Nokia N800",
+  "code": "nokia_n800",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Nokia N810",
+  "code": "nokia_n810",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Nokia N900",
+  "code": "nokia_n900",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Samsung Galaxy Note",
+  "code": "samsung_galaxy_note",
+  "height": 640,
+  "width": 400
+},
+{
+  "device": "Samsung Galaxy Note 3",
+  "code": "samsung_galaxy_note_3",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Samsung Galaxy Note II",
+  "code": "samsung_galaxy_note_II",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Samsung Galaxy S III",
+  "code": "samsung_galaxy_s_III",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Samsung Galaxy Nexus",
+  "code": "samsung_galaxy_nexus",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Samsung Galaxy S",
+  "code": "samsung_galaxy_s",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Samsung S II",
+  "code": "samsung_s_II",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Samsung W",
+  "code": "samsung_w",
+  "height": 533,
+  "width": 320
+},
+{
+  "device": "Samsung Galaxy S4",
+  "code": "samsung_galaxy_s4",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Samsung Galaxy Tab",
+  "code": "samsung_galaxy_tab",
+  "height": 600,
+  "width": 1024
+},
+{
+  "device": "Samsung Galaxy Tab 7.7",
+  "code": "samsung_galaxy_tab_7.7",
+  "height": 800,
+  "width": 1280
+},
+{
+  "device": "Samsung Galaxy Tab 8.9",
+  "code": "samsung_galaxy_tab_8.9",
+  "height": 800,
+  "width": 1280
+},
+{
+  "device": "Samsung Galaxy Tab 10.1",
+  "code": "samsung_galaxy_tab_10.1",
+  "height": 800,
+  "width": 1280
+},
+{
+  "device": "Sony Xperia S",
+  "code": "sony_xperia_s",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Sony Xperia Ion",
+  "code": "sony_xperia_ion",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Sony Xperia Sola",
+  "code": "sony_xperia_sola",
+  "height": 854,
+  "width": 480
+},
+{
+  "device": "Sony Xperia U",
+  "code": "sony_xperia_u",
+  "height": 854,
+  "width": 480
+},
+{
+  "device": "Sony Xperia Z",
+  "code": "sony_xperia_z",
+  "height": 640,
+  "width": 360
+},
+{
+  "device": "Sony Xperia Z1",
+  "code": "sony_Xperia_z1",
+  "height": 640,
+  "width": 360
+}
+]

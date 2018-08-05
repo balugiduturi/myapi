@@ -1,0 +1,17 @@
+{
+    "name": "API_SDK",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "3078",
+    "contributors": [],
+    "dependencies": {
+        "json_encode": "^0.1.0",
+        "request": "^2.83.0"
+    }
+}
